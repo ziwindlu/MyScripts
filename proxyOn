@@ -13,7 +13,7 @@ fi
 
 
 if [[ -z "$2" ]]; then
-		socks5_proxy_port='20170'
+		socks5_proxy_port='7890'
 else 
 		socks5_proxy_port=$2
 fi
